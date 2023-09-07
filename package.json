@@ -1,8 +1,8 @@
 {
-  "name": "@Dimitar-Stoimenov/mapbox-gl-draw",
+  "name": "@dimitar-stoimenov/mapbox-gl-draw",
   "version": "1.4.2",
   "description": "A drawing component for Mapbox GL JS",
-  "homepage": "https://github.com/Dimitar-Stoimenov/mapbox-gl-draw",
+  "homepage": "https://github.com/dimitar-stoimenov/mapbox-gl-draw",
   "author": "mapbox",
   "license": "ISC",
   "main": "dist/mapbox-gl-draw.js",
