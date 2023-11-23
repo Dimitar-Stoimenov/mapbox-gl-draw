@@ -1,3 +1,5 @@
+mapbox-gl-draw fork with several bugfixes
+
 # @mapbox/mapbox-gl-draw
 
 [![Build Status](https://travis-ci.org/mapbox/mapbox-gl-draw.svg?branch=main)](https://travis-ci.org/mapbox/mapbox-gl-draw)
